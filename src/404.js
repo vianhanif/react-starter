@@ -10,4 +10,4 @@ const NoMatch = React.createClass({
   }
 })
 
-export default NoMatch
+export default NoMatch;
